@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'AlteHaas';
+    src: url('AlteHaasGroteskRegular.woff2') format('woff2'),
+        url('AlteHaasGroteskRegular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'AlteHaas';
+    src: url('AlteHaasGroteskBold.woff2') format('woff2'),
+        url('AlteHaasGroteskBold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Redaction';
+    src: url('Redaction-Regular.woff2') format('woff2'),
+        url('Redaction-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Redaction';
+    src: url('Redaction-Bold.woff2') format('woff2'),
+        url('Redaction-Bold.otf') format('otf');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Redaction';
+    src: url('Redaction-Italic.woff2') format('woff2'),
+        url('Redaction-Italic.otf') format('otf');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Redaction50';
+    src: url('Redaction_50-Regular.woff2') format('woff2'),
+        url('Redaction50-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Redaction50';
+    src: url('Redaction_50-Bold.woff2') format('woff2'),
+        url('Redaction50-Bold.otf') format('otf');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Redaction50';
+    src: url('Redaction_50-Italic.woff2') format('woff2'),
+        url('Redaction50-Italic.otf') format('otf');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Redaction70';
+    src: url('Redaction_70-Regular.woff2') format('woff2'),
+        url('Redaction70-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Redaction70';
+    src: url('Redaction_70-Bold.woff2') format('woff2'),
+        url('Redaction70-Bold.otf') format('otf');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Redaction70';
+    src: url('Redaction_70-Italic.woff2') format('woff2'),
+        url('Redaction70-Italic.otf') format('otf');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'arrows';
+    src: url('arrows.woff2') format('woff2'),
+        url('arrows.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
