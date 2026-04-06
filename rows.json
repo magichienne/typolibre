@@ -1,5 +1,22 @@
 [
     {
+        "name": "Fontshare",
+        "type": "typothèque",
+        "tags": [
+            "classiques",
+            "filtres",
+            "variable",
+            "différentes graisses"
+        ],
+        "licenses": "open+closed sources, ITF Free Font License",
+        "links": [
+            [
+                "https://www.fontshare.com/",
+                "visiter"
+            ]
+        ]
+    },
+    {
         "name": "Beautiful Web Type",
         "type": "typothèque",
         "tags": [

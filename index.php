@@ -1,9 +1,6 @@
 <?php
-// $pageCSS = "css/home.css";
-// $pageScript = "scripts/home.js";
 
 $pageTitle = "typolibres";
-// (titre par défault : "spirale press")
 
 include 'php_includes/head.php';
 ?>
