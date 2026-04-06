@@ -92,7 +92,7 @@ include 'php_includes/head.php';
           fontes utilisées : <a href="https://www.dafont.com/alte-haas-grotesk.font" target="_blank">alte&nbsp;haas&nbsp;grotesk</a> par&nbsp;Yann le Coroller,<a href="https://www.redaction.us/" target="_blank">redaction</a> par Forest Young et&nbsp;Jeremy Mickel
         </p>
         <p>
-          curaté et developpé en php, javascript, html et css, en 2025 par&nbsp;<a href="https://joanajost.fr/" target="_blank">jjj</a>
+          le code de ce site est open-source et disponible sur <a href="https://github.com/magichienne/typolibre" target="_blank">github</a>. developpé et curaté depuis 2025 par&nbsp;<a href="https://joanajost.fr/" target="_blank">jjj</a>
         </p>
       </div>
     </div>

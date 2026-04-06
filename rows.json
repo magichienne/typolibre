@@ -1,5 +1,88 @@
 [
     {
+        "name": "Beautiful Web Type",
+        "type": "typothèque",
+        "tags": [
+            "classiques",
+            "filtres",
+            "variable"
+        ],
+        "licenses": "open font license",
+        "links": [
+            [
+                "https://beautifulwebtype.com/",
+                "visiter"
+            ]
+        ]
+    },
+    {
+        "name": "Online Fonts (free fonts)",
+        "type": "typothèque",
+        "tags": [
+            "divers",
+            "filtres"
+        ],
+        "licenses": "diverses licenses, gratuit",
+        "links": [
+            [
+                "https://online-fonts.com/use/free",
+                "visiter"
+            ]
+        ]
+    },
+    {
+        "name": "notyourtype foundry",
+        "type": "fonderie",
+        "tags": [
+            "expérimental",
+            "typo mais pas que",
+            "divers"
+        ],
+        "licenses": "Free To Use BUT Be Nice License, diverses licenses",
+        "links": [
+            [
+                "https://notyourtype.nl/typefaces/",
+                "typos"
+            ],
+            [
+                "https://notyourtype.nl/tools/#",
+                "outils"
+            ]
+        ]
+    },
+    {
+        "name": "Type Design Resources",
+        "type": "ressources",
+        "tags": [
+            "typo mais pas que",
+            "ressources",
+            "divers"
+        ],
+        "licenses": "gratuit",
+        "links": [
+            [
+                "https://typedesignresources.com/",
+                "visiter"
+            ]
+        ]
+    },
+    {
+        "name": "uncut",
+        "type": "typothèque",
+        "tags": [
+            "divers",
+            "liste",
+            "filtres"
+        ],
+        "licenses": "diverses licenses",
+        "links": [
+            [
+                "https://uncut.wtf/",
+                "visiter"
+            ]
+        ]
+    },
+    {
         "name": "Etcetera Type",
         "type": "fonderie",
         "tags": [
@@ -26,13 +109,13 @@
         "licenses": "gratuite",
         "links": [
             [
-                "#",
+                "https://www.kristinabold.com/",
                 "visiter"
             ]
         ]
     },
     {
-        "name": "Free Font Library",
+        "name": "Free Font Library (luuse)",
         "type": "typothèque",
         "tags": [
             "expérimental",
