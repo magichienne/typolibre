@@ -1,5 +1,57 @@
 [
     {
+        "name": "The League of Moveable Type",
+        "type": "fonderie",
+        "tags": [
+            "classiques",
+            "divers",
+            "différentes graisses"
+        ],
+        "licenses": "open font license",
+        "links": [
+            [
+                "https://www.theleagueofmoveabletype.com",
+                "visiter"
+            ]
+        ]
+    },
+    {
+        "name": "OSP-foundry",
+        "type": "fonderie",
+        "tags": [
+            "vernaculaire",
+            "expérimental",
+            "différentes graisses",
+            "typo mais pas que"
+        ],
+        "licenses": "libre et gratuite",
+        "links": [
+            [
+                "https://osp.kitchen/foundry",
+                "fonderie"
+            ],
+            [
+                "https://osp.kitchen",
+                "visiter"
+            ]
+        ]
+    },
+    {
+        "name": "fontain",
+        "type": "typothèque",
+        "tags": [
+            "classiques",
+            "monochasses"
+        ],
+        "licenses": "libre et gratuite",
+        "links": [
+            [
+                "https://fontain.org",
+                "visiter"
+            ]
+        ]
+    },
+    {
         "name": "Fontshare",
         "type": "typothèque",
         "tags": [
@@ -11,7 +63,7 @@
         "licenses": "open+closed sources, ITF Free Font License",
         "links": [
             [
-                "https://www.fontshare.com/",
+                "https://www.fontshare.com",
                 "visiter"
             ]
         ]
@@ -27,7 +79,7 @@
         "licenses": "open font license",
         "links": [
             [
-                "https://beautifulwebtype.com/",
+                "https://beautifulwebtype.com",
                 "visiter"
             ]
         ]
@@ -39,7 +91,7 @@
             "divers",
             "filtres"
         ],
-        "licenses": "diverses licenses, gratuit",
+        "licenses": "diverses licences, gratuite",
         "links": [
             [
                 "https://online-fonts.com/use/free",
@@ -58,7 +110,7 @@
         "licenses": "Free To Use BUT Be Nice License, diverses licenses",
         "links": [
             [
-                "https://notyourtype.nl/typefaces/",
+                "https://notyourtype.nl/typefaces",
                 "typos"
             ],
             [
@@ -75,10 +127,10 @@
             "ressources",
             "divers"
         ],
-        "licenses": "gratuit",
+        "licenses": "gratuite",
         "links": [
             [
-                "https://typedesignresources.com/",
+                "https://typedesignresources.com",
                 "visiter"
             ]
         ]
@@ -88,13 +140,12 @@
         "type": "typothèque",
         "tags": [
             "divers",
-            "liste",
             "filtres"
         ],
         "licenses": "diverses licenses",
         "links": [
             [
-                "https://uncut.wtf/",
+                "https://uncut.wtf",
                 "visiter"
             ]
         ]
@@ -111,7 +162,7 @@
         "licenses": "open font license",
         "links": [
             [
-                "https://etceteratype.co/",
+                "https://etceteratype.co",
                 "visiter"
             ]
         ]
@@ -126,7 +177,7 @@
         "licenses": "gratuite",
         "links": [
             [
-                "https://www.kristinabold.com/",
+                "https://www.kristinabold.com",
                 "visiter"
             ]
         ]
@@ -141,7 +192,7 @@
         "licenses": "diverses licences",
         "links": [
             [
-                "https://typotheque.luuse.fun/",
+                "https://typotheque.luuse.fun",
                 "visiter"
             ]
         ]
@@ -150,13 +201,12 @@
         "name": "Velvetyne Libre Friends",
         "type": "ressources",
         "tags": [
-            "liste",
             "divers"
         ],
         "licenses": "diverses licences",
         "links": [
             [
-                "https://velvetyne.fr/velvetyne-libre-friends/",
+                "https://velvetyne.fr/velvetyne-libre-friends",
                 "visiter"
             ]
         ]
@@ -173,7 +223,7 @@
         "licenses": "open font license",
         "links": [
             [
-                "https://www.collletttivo.it/",
+                "https://www.collletttivo.it",
                 "visiter"
             ],
             [
@@ -192,7 +242,7 @@
         "licenses": "WTFPL",
         "links": [
             [
-                "https://fonderie.download/",
+                "https://fonderie.download",
                 "visiter"
             ]
         ]
@@ -202,7 +252,6 @@
         "type": "ressources",
         "tags": [
             "divers",
-            "liste",
             "typo mais pas que"
         ],
         "licenses": "diverses licences",
@@ -212,7 +261,7 @@
                 "typos"
             ],
             [
-                "https://freesourc.es/",
+                "https://freesourc.es",
                 "visiter"
             ]
         ]
@@ -228,7 +277,7 @@
         "licenses": "diverses licences",
         "links": [
             [
-                "https://www.freefaces.gallery/",
+                "https://www.freefaces.gallery",
                 "visiter"
             ]
         ]
@@ -237,7 +286,6 @@
         "name": "Type Foundry Directory",
         "type": "ressources",
         "tags": [
-            "liste",
             "filtres",
             "divers"
         ],
@@ -274,7 +322,7 @@
         "licenses": "open font license",
         "links": [
             [
-                "https://primary-foundry.com/library/",
+                "https://primary-foundry.com/library",
                 "visiter"
             ]
         ]
@@ -306,7 +354,7 @@
         "licenses": "open font license",
         "links": [
             [
-                "https://typotheque.le75.be/",
+                "https://typotheque.le75.be",
                 "visiter"
             ]
         ]
@@ -318,10 +366,10 @@
             "expérimental",
             "différentes graisses"
         ],
-        "licenses": "libre et gratuit",
+        "licenses": "libre et gratuite",
         "links": [
             [
-                "https://velvetyne.fr/",
+                "https://velvetyne.fr",
                 "visiter"
             ]
         ]
@@ -354,7 +402,7 @@
         "licenses": "open font license",
         "links": [
             [
-                "http://www.tunera.xyz/",
+                "http://www.tunera.xyz",
                 "visiter"
             ]
         ]
@@ -369,7 +417,7 @@
         "licenses": "open font license",
         "links": [
             [
-                "https://www.redaction.us/",
+                "https://www.redaction.us",
                 "visiter"
             ]
         ]
@@ -385,7 +433,7 @@
         "licenses": "diverses licences",
         "links": [
             [
-                "https://usemodify.com/",
+                "https://usemodify.com",
                 "visiter"
             ]
         ]
@@ -403,7 +451,7 @@
         "licenses": "diverses licences",
         "links": [
             [
-                "https://www.design-research.be/by-womxn/",
+                "https://www.design-research.be/by-womxn",
                 "visiter"
             ]
         ]
@@ -418,7 +466,7 @@
         "licenses": "open font license (principalement)",
         "links": [
             [
-                "https://myfffonts.accentgrave.net/",
+                "https://myfffonts.accentgrave.net",
                 "visiter"
             ]
         ]
@@ -455,7 +503,7 @@
         "licenses": "diverses licences",
         "links": [
             [
-                "https://www.dafont.com/",
+                "https://www.dafont.com",
                 "visiter"
             ]
         ]
