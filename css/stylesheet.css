@@ -21,6 +21,10 @@
     --big: 18pt;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: var(--beige);
     font-family: var(--AlteHaas);
@@ -200,7 +204,7 @@ h2 {
 
 #type-table th:nth-child(5),
 #type-table td:nth-child(5) {
-    width: 12%;
+    width: 17%;
 }
 
 
@@ -240,6 +244,10 @@ th.sortable:hover {
 
 tbody tr:hover {
     color: var(--white);
+}
+
+tbody td {
+    padding: 0 5px;
 }
 
 #tag-head {
